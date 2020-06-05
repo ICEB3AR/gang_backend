@@ -5,6 +5,7 @@ var Gang = require('./../models/gang');
 
 
 
+
 //새로운 유저 가입
 //닉네임 중복확인
 router.post('/register', function(req,res,next){
